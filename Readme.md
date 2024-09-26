@@ -17,12 +17,21 @@
 
 ## Work Experience
 
-**Undergraduate Research Assistant**  
-North Carolina State University · Part-time  
-
-Nov 2022 - May 2024
+**Undergraduate Data Science Researcher**  
+North Carolina State University 
+(_Nov 2022 - May 2024_)
+Raleigh, NC
 
 
 - Employed Python k-means clustering to segment Ukraine War discussions on X, identifying bot-assisted vs. organic content.
 - Contributed to an age prediction model for mental health discussions on X, using Python for sentiment analysis and achieving 87% classification accuracy across age groups.
+
+**Economic Development Intern**  
+Lincoln Economic Development Association 
+(_May 2023 - Jul 2023_)   
+Lincolnton, NC
+
+- Reported data metrics on local skill gaps and workforce demand through insightful dashboards.  
+- Retrieved labor industry data through RFIs made by industries seeking local sites.  
+- Compiled a dataset via JobsEQ and developed a presentation on workforce housing, juxtaposing Lincoln County salary data to affordable rental properties.
 
