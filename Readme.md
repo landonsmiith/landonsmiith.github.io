@@ -20,16 +20,17 @@
 **Undergraduate Data Science Researcher**  
 North Carolina State University 
 (_Nov 2022 - May 2024_)
-Raleigh, NC
+
+**Raleigh, NC**
 
 
 - Employed Python k-means clustering to segment Ukraine War discussions on X, identifying bot-assisted vs. organic content.
 - Contributed to an age prediction model for mental health discussions on X, using Python for sentiment analysis and achieving 87% classification accuracy across age groups.
 
-**Economic Development Intern**  
+**Economic Development & Analysis Intern**  
 Lincoln Economic Development Association 
 (_May 2023 - Jul 2023_)   
-Lincolnton, NC
+**Lincolnton, NC**
 
 - Reported data metrics on local skill gaps and workforce demand through insightful dashboards.  
 - Retrieved labor industry data through RFIs made by industries seeking local sites.  
