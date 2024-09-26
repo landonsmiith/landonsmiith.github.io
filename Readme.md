@@ -16,3 +16,13 @@
 - B.S. Economics | North Carolina State University (_May 2024_)
 
 ## Work Experience
+
+**Undergraduate Research Assistant**  
+North Carolina State University · Part-time  
+
+Nov 2022 - May 2024
+
+
+- Employed Python k-means clustering to segment Ukraine War discussions on X, identifying bot-assisted vs. organic content.
+- Contributed to an age prediction model for mental health discussions on X, using Python for sentiment analysis and achieving 87% classification accuracy across age groups.
+
